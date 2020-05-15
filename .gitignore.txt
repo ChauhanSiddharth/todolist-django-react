@@ -4,6 +4,7 @@
 /node_modules
 /.pnp
 /.gitignore
+!.frontendtodo
 .pnp.js
 
 # testing

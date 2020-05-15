@@ -4,8 +4,8 @@
 /node_modules
 /.pnp
 /.gitignore
-!frontendtodo/public
-!frontendtodo/src
+!frontendtodo/.public
+!frontendtodo/.src
 !frontendtodo/.package-lock.json
 !frontendtodo/.package.json
 .pnp.js

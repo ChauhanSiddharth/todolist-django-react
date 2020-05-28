@@ -1,5 +1,5 @@
 # todolist-django-react
-Built with Django Rest Framework and ReactJS 
+Built with Django Rest Framework (REST API) and ReactJS 
 
 ### Clone or Download the repository
 
@@ -17,6 +17,6 @@ Now run.
 
 ### `python manage.py runserver`
 
-Project will be running on your <a href="http://127.0.0.1:8000/" target="_blank">localhost:8000</a>.
+Project will be running on your <a href="http://127.0.0.1:8000/" title="127.0.0.1:8000" target="_blank">localhost:8000</a>.
 
 <img src="https://i.ibb.co/HNwDVNz/todo.png" alt="todo" border="0">

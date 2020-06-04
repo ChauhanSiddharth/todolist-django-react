@@ -1,5 +1,5 @@
 # todolist-django-react
-Built with Django Rest Framework (REST API) and ReactJS 
+Built with Django Rest Framework (REST API) Back End and React JS at Frontend.
 
 ### Clone or Download the repository
 
